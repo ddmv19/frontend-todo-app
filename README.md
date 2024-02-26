@@ -7,6 +7,12 @@ This repository contains the code of fronted todos project for management of Tod
 
 This frontend project is responsible for providing an intuitive and efficient user interface to managing todos.
 
+## Backend Repository
+
+If you are interested in explore the backend (API) project associated with this application of Todos, can find the repository in the following link:
+
+[Backend (API) Project Repository](https://github.com/ddmv19/backend-todo-app)
+
 ## Prerequisites
 
 Before executing this project, make sure you have installed Node.js, PNPM and setting your MongoDB Cluster & environment variables.
