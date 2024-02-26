@@ -1,6 +1,6 @@
 # Frontend Todos Project
 
-This repository contains the code of fronted todos project for management of Todos, devolopment using React, Vite, PNPM y Sonner (Toast Library), <strong>devoloped as practice for acquiring web development skills 💻.</strong>
+This repository contains the code of fronted todos project for management of Todos, devolopment using React, Vite, PNPM y Sonner (Toast Library), <strong>developed as practice for acquiring web development skills 💻.</strong>
 
 ## Description
 
