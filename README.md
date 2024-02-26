@@ -1,4 +1,4 @@
-# Frontend Todos Project
+# <center> Frontend Todos Project</center>
 
 ![Application Image](public/application.png)
 This repository contains the code of fronted todos project for management of Todos, devolopment using React, Vite, PNPM y Sonner (Toast Library), <strong>developed as practice for acquiring web development skills 💻.</strong>
